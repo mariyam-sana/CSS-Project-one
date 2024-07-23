@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+}
+
+.one{
+    background-color: #5a108f;
+}
+.two{
+    background-color: #6818a5;
+}
+.three{
+    background-color: #8b2fc9;
+}
+.four{
+    background-color: #ab51e3;
+}
+.five{
+    background-color: #bd68ee;
+}
+.six{
+    background-color: #d283ff;
+}
+.fourteen{
+    background-color: rgb(177, 2, 37);
+}
+.thirteen{
+    background-color: rgb(202, 41, 73)
+}
+.twelev{
+    background-color: rgb(226, 68, 100);
+}
+.eleven{
+    background-color: rgb(248, 80, 114);
+}
+.ten{
+    background-color: rgb(253, 124, 150);
+}
+.nine{
+    background-color: rgb(250, 161, 179);
+}
